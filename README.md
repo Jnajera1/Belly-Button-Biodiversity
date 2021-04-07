@@ -1,9 +1,9 @@
-Plot.ly Homework - Belly Button Biodiversity
+**Plot.ly Homework - Belly Button Biodiversity**
 
 In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
-
-Step 1: Plotly
+**
+Step 1: Plotly**
 
 
 Use the D3 library to read in samples.json.
@@ -60,8 +60,8 @@ Update all of the plots any time that a new sample is selected.
 Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
 
 
-Advanced Challenge Assignment (Optional)
-The following task is advanced and therefore optional.
+**Advanced Challenge Assignment (Optional)
+The following task is advanced and therefore optional.**
 
 
 Adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/ to plot the weekly washing frequency of the individual.
@@ -75,7 +75,7 @@ Update the chart whenever a new sample is selected.
 
 
 
-Deployment
+**Deployment**
 
 
 Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
@@ -85,7 +85,7 @@ Ensure your repository has regular commits (i.e. 20+ commits) and a thorough REA
 
 
 
-Hints
+**Hints**
 
 
 Use console.log inside of your JavaScript code to see what your data looks like at each step.
@@ -94,6 +94,6 @@ Use console.log inside of your JavaScript code to see what your data looks like 
 Refer to the Plotly.js documentation when building the plots.
 
 
-
-About the Data
+**
+About the Data**
 Hulcr, J. et al.(2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
